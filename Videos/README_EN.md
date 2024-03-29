@@ -1,8 +1,8 @@
-# Conférences
+# Conferences
 
 ## Craft
 
-### Général
+### General
 
 - [Y’en a marre du software craftsmanship ! - Julien Topçu et Yann Danot](https://www.youtube.com/watch?v=KpQ-t9wWU3k&ab_channel=BreizhCamp)
 - [Un développeur sous couverture parmi les utilisateurs - Aurélien Boudoux](https://youtu.be/C-zaS_5sGz0?si=edyOi2XkWQ7z8kVm)
@@ -15,7 +15,7 @@
 - [Model Mitosis: dealing with model tensions - Julien Topçu and Josian Chevalier](https://youtu.be/VO6BSb52K5g?si=3V5efhOPvf-5ukzP)
 - [Model Mitosis: ne plus se tromper entre les microservices et le monolithe - Julien Topçu and Josian Chevalier](https://youtu.be/w8tEZvgCIyc?si=HBkh0c2ceYLmN1-Z)
 
-### Architecture hexagonale
+### Hexagonal architecture
 
 - [Architecturoplastie hexagonale d’un backend Node.js - Jordan Nourry, Adrien Joly, Julien Topçu](https://youtu.be/r2XMwAUqZBA?si=N9XPSqVjMxAod_vr)
 - [Architecture Hexagonale : gestion complexité logicielle et dette technique - Julien Topçu](https://youtu.be/dtP-tTHjckE?si=Ep0THYy_M1tSfydA)
@@ -38,12 +38,12 @@
 
 - [3P pour sortir du Legacy - Johan Martinsson](https://youtu.be/jOK4qtbIdTY?si=XDo07mXnUxfMMdI-)
 
-## Sécurité
+## Security
 
 - [OAUTH 2.1 explained simply (even if you are not a developer) ! - Julien Topçu](https://youtu.be/4ZzRCHFBpPM?si=AcfM4UciiUAY2mIA)
 - [OAUTH 2.1 expliqué simplement (même si tu n'es pas dev) ! - Julien Topçu](https://youtu.be/YdShQveywpo?si=fRHs_1B0ie6k7d33)
 
-# Chaînes Youtube
+# Youtube channels
 
 - [CodeOpinion](https://www.youtube.com/@CodeOpinion)
 - [BreizhCamp](https://www.youtube.com/@BreizhCamp/videos)
