@@ -12,8 +12,8 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) o
 
 ### My Comic Books
 
-- [Découvrez le Craft](BDs/Découvrez%20le%20Craft/Découvez%20le%20Craft.pdf)
-- [Zoom sur les pratiques du Craft](BDs%2FZoom%20sur%20les%20pratiques%20du%20Craft%2FZoom%20sur%20les%20pratiques%20du%20Craft.pdf)
+- [Discover the Craft.pdf](BDs%2F01%20-%20Craft%2FEN%2FDiscover%20the%20Craft.pdf)
+- [Focus on Craft practices.pdf](BDs%2F02%20-%20Craft%20practices%2FEN%2FFocus%20on%20Craft%20practices.pdf)
 - More to come...
 
 ### Katas
