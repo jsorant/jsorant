@@ -12,10 +12,15 @@ Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) ou lors
 
 ### Mes BDs
 
+#### Généralistes
+
 - [Decouvez le Craft](BDs%2F01%20-%20Craft%2FFR%2FDecouvez%20le%20Craft.pdf)
 - [Zoom sur les pratiques du Craft](BDs%2F02%20-%20Craft%20practices%2FFR%2FZoom%20sur%20les%20pratiques%20du%20Craft.pdf)
 - [Zoom sur les tests](BDs%2F03%20-%20Tests%2FFR%2FZoom%20sur%20les%20tests.pdf)
-- D'autres sont à venir...
+
+#### Les pratiques orientées craft
+
+- [TDD (Test-Driven Development)](BDs%2FPractices%2FP01%20-%20TDD%2FFR%2FP01%20-%20TDD.pdf)
 
 ### Katas
 
