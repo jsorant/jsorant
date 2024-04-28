@@ -21,6 +21,7 @@ Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) ou lors
 #### Les pratiques orientées craft
 
 - [TDD (Test-Driven Development)](BDs%2FPractices%2FP01%20-%20TDD%2FFR%2FP01%20-%20TDD.pdf)
+- [BDD (Behavior-Driven Development)](BDs%2FPractices%2FP02%20-%20BDD%2FFR%2FP02%20-%20BDD.pdf)
 
 ### Katas
 
