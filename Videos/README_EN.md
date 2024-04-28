@@ -29,10 +29,17 @@
 ### TDD
 
 - [Un démarrage TDD accéléré ! - Cédric MAGNE](https://youtu.be/nuVLzEhAP-g?si=dws5uGjfu_jh3W-Z)
+- [Le TDD : du Kata à la Production - Maxime Dezette](https://www.youtube.com/watch?v=QSs7lt9WGIU&ab_channel=SoftwareCraftersLyon)
+
+### Tests
+
+- [Une architecture pour tester votre frontend - Alexia Souvane](https://www.youtube.com/watch?v=9wrfBxrhb5g&ab_channel=SoftwareCraftersLyon)
 
 ### Refactoring 
 
 - [Always-Green Refactoring : Retravailler sa codebase en douceur - Thomas Carpaye, Mohammed Lamzira](https://youtu.be/_7OwV4apwUA?si=gFvOd4Rwg-q6GF-r)
+- [Restez Zen en codant ! (Trucs et astuces) - Léa Coston & Matthieu Sauboua-Beneluz](https://www.youtube.com/watch?v=bhlsItr5NMQ&t=9s&ab_channel=SoftwareCraftersLyon)
+- [À fond les manettes - Gaspard Pointeau](https://www.youtube.com/watch?v=ji_F3jWLO5I&t=1361s&ab_channel=SoftwareCraftersLyon)
 
 ### Legacy
 
