@@ -24,6 +24,10 @@ Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) ou lors
 - [BDD (Behavior-Driven Development)](BDs%2FPractices%2FP02%20-%20BDD%2FFR%2FP02%20-%20BDD.pdf)
 - [Katas](BDs%2FPractices%2FP03%20-%20Katas%2FFR%2FP03%20-%20Kata.pdf)
 
+### Mes ateliers
+
+- [Reprendre la main sur mon backend Node (testing & refactoring)](https://github.com/jsorant/kata-refacto-backend-node)
+
 ### Katas
 
 Catalogues :
