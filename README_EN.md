@@ -16,6 +16,16 @@ You can also find me on [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) o
 - [Focus on Craft practices](BDs%2F02%20-%20Craft%20practices%2FEN%2FFocus%20on%20Craft%20practices.pdf)
 - More to come...
 
+### Talks
+
+- Initiation à la cryptographie
+- Initiation au Craft
+- [J'écris des tests sans pleurer maintenant](https://github.com/jsorant/talk-j-ecris-des-tests-sans-pleurer-maintenant)
+
+### Workshops
+
+- [Reprendre la main sur mon backend Node (testing & refactoring)](https://github.com/jsorant/kata-refacto-backend-node)
+
 ### Katas
 
 Catalogs :
@@ -27,9 +37,11 @@ Boilerplates :
 - [Java](https://github.com/jsorant/boilerplate-kata-java)
 - [C++](https://github.com/jsorant/boilerplate-kata-cpp)
 
-### Software Crafters Lyon
+### Staff member of Software Crafters Lyon
 
 This is an association that organizes several sessions per month for members to meet and practice.
+
+We also organize events of greater scale like the Global Day of Code Retreat and Lyon Craft.
 
 You can find the calendar and information on [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/).
 

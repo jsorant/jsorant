@@ -24,6 +24,12 @@ Retrouvez-moi sur [LinkedIn](https://www.linkedin.com/in/jeremy-sorant/) ou lors
 - [BDD (Behavior-Driven Development)](BDs%2FPractices%2FP02%20-%20BDD%2FFR%2FP02%20-%20BDD.pdf)
 - [Katas](BDs%2FPractices%2FP03%20-%20Katas%2FFR%2FP03%20-%20Kata.pdf)
 
+### Mes talks
+
+- Initiation à la cryptographie
+- Initiation au Craft
+- [J'écris des tests sans pleurer maintenant](https://github.com/jsorant/talk-j-ecris-des-tests-sans-pleurer-maintenant)
+
 ### Mes ateliers
 
 - [Reprendre la main sur mon backend Node (testing & refactoring)](https://github.com/jsorant/kata-refacto-backend-node)
@@ -39,9 +45,11 @@ Boilerplates :
 - [Java](https://github.com/jsorant/boilerplate-kata-java)
 - [C++](https://github.com/jsorant/boilerplate-kata-cpp)
 
-### Software Crafters Lyon
+### Co-organisateur des Software Crafters Lyon
 
-Il s'agit d'une association qui organise plusieurs sessions par mois pour se retrouver et pratiquer.
+Nous sommes une association qui organise plusieurs sessions par mois pour se retrouver et pratiquer.
+
+Nous organisons aussi des évènements de plus grande ampleur comme le Global Day of Code Retreat et Lyon Craft.
 
 Calendrier et infos sur [Meetup](https://www.meetup.com/fr-FR/software-craftsmanship-lyon/).
 
